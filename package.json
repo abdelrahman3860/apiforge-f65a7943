@@ -1,0 +1,19 @@
+```json
+{
+  "name": "monthly-budget-summary-api",
+  "version": "1.0.0",
+  "description": "API to generate monthly budget summary",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "cors": "^2.8.5",
+    "joi": "^17.6.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+```
